@@ -1,0 +1,5040 @@
+(i__main__
+MovieRecommender
+p0
+(dp1
+S'movies'
+p2
+(lp3
+(i__main__
+Movie
+p4
+(dp5
+S'rated'
+p6
+VPG
+p7
+sS'title'
+p8
+VThe Spy Who Loved Me
+p9
+sS'country'
+p10
+VUK
+p11
+sS'director'
+p12
+VLewis Gilbert
+p13
+sS'actors'
+p14
+VRoger Moore, Barbara Bach, Curd Jürgens, Richard Kiel
+p15
+sS'year'
+p16
+V1977
+p17
+sS'genre'
+p18
+VAction, Adventure, Sci-Fi
+p19
+sba(i__main__
+Movie
+p20
+(dp21
+g6
+VPG
+p22
+sg8
+VThe Goodbye Girl
+p23
+sg10
+VUSA
+p24
+sg12
+VHerbert Ross
+p25
+sg14
+VRichard Dreyfuss, Marsha Mason, Quinn Cummings, Paul Benedict
+p26
+sg16
+V1977
+p27
+sg18
+VComedy, Drama, Romance
+p28
+sba(i__main__
+Movie
+p29
+(dp30
+g6
+VPG
+p31
+sg8
+VThe Deep
+p32
+sg10
+VUSA
+p33
+sg12
+VPeter Yates
+p34
+sg14
+VJacqueline Bisset, Nick Nolte, Dick Anthony Williams, Robert Shaw
+p35
+sg16
+V1977
+p36
+sg18
+VAdventure, Mystery, Thriller
+p37
+sba(i__main__
+Movie
+p38
+(dp39
+g6
+VPG
+p40
+sg8
+VStar Wars: Episode IV - A New Hope
+p41
+sg10
+VUSA
+p42
+sg12
+VGeorge Lucas
+p43
+sg14
+VMark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+p44
+sg16
+V1977
+p45
+sg18
+VAction, Adventure, Fantasy
+p46
+sba(i__main__
+Movie
+p47
+(dp48
+g6
+VPG
+p49
+sg8
+VSmokey and the Bandit
+p50
+sg10
+VUSA
+p51
+sg12
+VHal Needham
+p52
+sg14
+VBurt Reynolds, Sally Field, Jerry Reed, Mike Henry
+p53
+sg16
+V1977
+p54
+sg18
+VAction, Comedy
+p55
+sba(i__main__
+Movie
+p56
+(dp57
+g6
+VR
+p58
+sg8
+VSaturday Night Fever
+p59
+sg10
+VUSA
+p60
+sg12
+VJohn Badham
+p61
+sg14
+VJohn Travolta, Karen Lynn Gorney, Barry Miller, Joseph Cali
+p62
+sg16
+V1977
+p63
+sg18
+VDrama, Music
+p64
+sba(i__main__
+Movie
+p65
+(dp66
+g6
+VPG
+p67
+sg8
+VOh, God!
+p68
+sg10
+VUSA
+p69
+sg12
+VCarl Reiner
+p70
+sg14
+VJohn Denver, George Burns, Teri Garr, Donald Pleasence
+p71
+sg16
+V1977
+p72
+sg18
+VComedy, Fantasy
+p73
+sba(i__main__
+Movie
+p74
+(dp75
+g6
+VPG
+p76
+sg8
+VClose Encounters of the Third Kind
+p77
+sg10
+VUSA
+p78
+sg12
+VSteven Spielberg
+p79
+sg14
+VRichard Dreyfuss, François Truffaut, Teri Garr, Melinda Dillon
+p80
+sg16
+V1977
+p81
+sg18
+VDrama, Sci-Fi
+p82
+sba(i__main__
+Movie
+p83
+(dp84
+g6
+VPG
+p85
+sg8
+VAnnie Hall
+p86
+sg10
+VUSA
+p87
+sg12
+VWoody Allen
+p88
+sg14
+VWoody Allen, Diane Keaton, Tony Roberts, Carol Kane
+p89
+sg16
+V1977
+p90
+sg18
+VComedy, Romance
+p91
+sba(i__main__
+Movie
+p92
+(dp93
+g6
+VPG
+p94
+sg8
+VA Bridge Too Far
+p95
+sg10
+VUSA, UK
+p96
+sg12
+VRichard Attenborough
+p97
+sg14
+VSiem Vroom, Marlies van Alcmaer, Erik van 't Wout, Wolfgang Preiss
+p98
+sg16
+V1977
+p99
+sg18
+VDrama, History, War
+p100
+sba(i__main__
+Movie
+p101
+(dp102
+g6
+VPG-13
+p103
+sg8
+VGrease
+p104
+sg10
+VUSA
+p105
+sg12
+VRandal Kleiser
+p106
+sg14
+VJohn Travolta, Olivia Newton-John, Stockard Channing, Jeff Conaway
+p107
+sg16
+V1978
+p108
+sg18
+VMusical, Romance
+p109
+sba(i__main__
+Movie
+p110
+(dp111
+g6
+VPG
+p112
+sg8
+VSuperman
+p113
+sg10
+VUSA, UK
+p114
+sg12
+VRichard Donner
+p115
+sg14
+VMarlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+p116
+sg16
+V1978
+p117
+sg18
+VAction, Adventure, Drama
+p118
+sba(i__main__
+Movie
+p119
+(dp120
+g6
+VPG
+p121
+sg8
+VEvery Which Way But Loose
+p122
+sg10
+VUSA
+p123
+sg12
+VJames Fargo
+p124
+sg14
+VClint Eastwood, Sondra Locke, Geoffrey Lewis, Beverly D'Angelo
+p125
+sg16
+V1978
+p126
+sg18
+VAction, Comedy
+p127
+sba(i__main__
+Movie
+p128
+(dp129
+g6
+VPG
+p130
+sg8
+VHeaven Can Wait
+p131
+sg10
+VUSA
+p132
+sg12
+VWarren Beatty, Buck Henry
+p133
+sg14
+VWarren Beatty, Julie Christie, James Mason, Jack Warden
+p134
+sg16
+V1978
+p135
+sg18
+VComedy, Fantasy, Romance
+p136
+sba(i__main__
+Movie
+p137
+(dp138
+g6
+VPG
+p139
+sg8
+VHooper
+p140
+sg10
+VUSA
+p141
+sg12
+VHal Needham
+p142
+sg14
+VBurt Reynolds, Jan-Michael Vincent, Sally Field, Brian Keith
+p143
+sg16
+V1978
+p144
+sg18
+VAction, Comedy
+p145
+sba(i__main__
+Movie
+p146
+(dp147
+g6
+VPG
+p148
+sg8
+VJaws 2
+p149
+sg10
+VUSA
+p150
+sg12
+VJeannot Szwarc
+p151
+sg14
+VRoy Scheider, Lorraine Gary, Murray Hamilton, Joseph Mascolo
+p152
+sg16
+V1978
+p153
+sg18
+VAdventure, Horror, Thriller
+p154
+sba(i__main__
+Movie
+p155
+(dp156
+g6
+VPG
+p157
+sg8
+VRevenge of the Pink Panther
+p158
+sg10
+VUK, USA
+p159
+sg12
+VBlake Edwards
+p160
+sg14
+VPeter Sellers, Herbert Lom, Burt Kwouk, Dyan Cannon
+p161
+sg16
+V1978
+p162
+sg18
+VComedy, Crime, Mystery
+p163
+sba(i__main__
+Movie
+p164
+(dp165
+g6
+VR
+p166
+sg8
+VThe Deer Hunter
+p167
+sg10
+VUK, USA
+p168
+sg12
+VMichael Cimino
+p169
+sg14
+VRobert De Niro, John Cazale, John Savage, Christopher Walken
+p170
+sg16
+V1978
+p171
+sg18
+VDrama, War
+p172
+sba(i__main__
+Movie
+p173
+(dp174
+g6
+VR
+p175
+sg8
+VHalloween
+p176
+sg10
+VUSA
+p177
+sg12
+VJohn Carpenter
+p178
+sg14
+VDonald Pleasence, Jamie Lee Curtis, Nancy Kyes, P.J. Soles
+p179
+sg16
+V1978
+p180
+sg18
+VHorror, Thriller
+p181
+sba(i__main__
+Movie
+p182
+(dp183
+g6
+VPG
+p184
+sg8
+VKramer vs. Kramer
+p185
+sg10
+VUSA
+p186
+sg12
+VRobert Benton
+p187
+sg14
+VDustin Hoffman, Meryl Streep, Jane Alexander, Justin Henry
+p188
+sg16
+V1979
+p189
+sg18
+VDrama, Romance
+p190
+sba(i__main__
+Movie
+p191
+(dp192
+g6
+VR
+p193
+sg8
+VThe Amityville Horror
+p194
+sg10
+VUSA
+p195
+sg12
+VStuart Rosenberg
+p196
+sg14
+VJames Brolin, Margot Kidder, Rod Steiger, Don Stroud
+p197
+sg16
+V1979
+p198
+sg18
+VHorror
+p199
+sba(i__main__
+Movie
+p200
+(dp201
+g6
+VPG
+p202
+sg8
+VRocky II
+p203
+sg10
+VUSA
+p204
+sg12
+VSylvester Stallone
+p205
+sg14
+VSylvester Stallone, Talia Shire, Burt Young, Carl Weathers
+p206
+sg16
+V1979
+p207
+sg18
+VDrama, Sport
+p208
+sba(i__main__
+Movie
+p209
+(dp210
+g6
+VR
+p211
+sg8
+VApocalypse Now
+p212
+sg10
+VUSA
+p213
+sg12
+VFrancis Ford Coppola
+p214
+sg14
+VMarlon Brando, Martin Sheen, Robert Duvall, Frederic Forrest
+p215
+sg16
+V1979
+p216
+sg18
+VDrama, War
+p217
+sba(i__main__
+Movie
+p218
+(dp219
+g6
+VPG
+p220
+sg8
+VStar Trek: The Motion Picture
+p221
+sg10
+VUSA
+p222
+sg12
+VRobert Wise
+p223
+sg14
+VWilliam Shatner, Leonard Nimoy, DeForest Kelley, James Doohan
+p224
+sg16
+V1979
+p225
+sg18
+VAdventure, Mystery, Sci-Fi
+p226
+sba(i__main__
+Movie
+p227
+(dp228
+g6
+VR
+p229
+sg8
+VAlien
+p230
+sg10
+VUK, USA
+p231
+sg12
+VRidley Scott
+p232
+sg14
+VTom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton
+p233
+sg16
+V1979
+p234
+sg18
+VHorror, Sci-Fi
+p235
+sba(i__main__
+Movie
+p236
+(dp237
+g6
+VR
+p238
+sg8
+V10
+p239
+sg10
+VUSA
+p240
+sg12
+VBlake Edwards
+p241
+sg14
+VDudley Moore, Julie Andrews, Bo Derek, Robert Webber
+p242
+sg16
+V1979
+p243
+sg18
+VComedy, Romance
+p244
+sba(i__main__
+Movie
+p245
+(dp246
+g6
+VR
+p247
+sg8
+VThe Jerk
+p248
+sg10
+VUSA
+p249
+sg12
+VCarl Reiner
+p250
+sg14
+VSteve Martin, Bernadette Peters, Catlin Adams, Mabel King
+p251
+sg16
+V1979
+p252
+sg18
+VComedy
+p253
+sba(i__main__
+Movie
+p254
+(dp255
+g6
+VPG
+p256
+sg8
+VMoonraker
+p257
+sg10
+VUK, France, USA
+p258
+sg12
+VLewis Gilbert
+p259
+sg14
+VRoger Moore, Lois Chiles, Michael Lonsdale, Richard Kiel
+p260
+sg16
+V1979
+p261
+sg18
+VAction, Adventure, Sci-Fi
+p262
+sba(i__main__
+Movie
+p263
+(dp264
+g6
+VG
+p265
+sg8
+VThe Muppet Movie
+p266
+sg10
+VUK, USA
+p267
+sg12
+VJames Frawley
+p268
+sg14
+VJim Henson, Frank Oz, Jerry Nelson, Richard Hunt
+p269
+sg16
+V1979
+p270
+sg18
+VAdventure, Comedy, Family
+p271
+sba(i__main__
+Movie
+p272
+(dp273
+g6
+VPG
+p274
+sg8
+VStar Wars: Episode V - The Empire Strikes Back
+p275
+sg10
+VUSA
+p276
+sg12
+VIrvin Kershner
+p277
+sg14
+VMark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
+p278
+sg16
+V1980
+p279
+sg18
+VAction, Adventure, Fantasy
+p280
+sba(i__main__
+Movie
+p281
+(dp282
+g6
+VR
+p283
+sg8
+VStir Crazy
+p284
+sg10
+VUSA
+p285
+sg12
+VSidney Poitier
+p286
+sg14
+VGene Wilder, Richard Pryor, Georg Stanford Brown, JoBeth Williams
+p287
+sg16
+V1980
+p288
+sg18
+VComedy, Crime
+p289
+sba(i__main__
+Movie
+p290
+(dp291
+g6
+VPG
+p292
+sg8
+VAirplane!
+p293
+sg10
+VUSA
+p294
+sg12
+VJim Abrahams, David Zucker, Jerry Zucker
+p295
+sg14
+VKareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty
+p296
+sg16
+V1980
+p297
+sg18
+VComedy
+p298
+sba(i__main__
+Movie
+p299
+(dp300
+g6
+VPG
+p301
+sg8
+VAny Which Way You Can
+p302
+sg10
+VUSA
+p303
+sg12
+VBuddy Van Horn
+p304
+sg14
+VClint Eastwood, Sondra Locke, Geoffrey Lewis, William Smith
+p305
+sg16
+V1980
+p306
+sg18
+VAction, Comedy
+p307
+sba(i__main__
+Movie
+p308
+(dp309
+g6
+VR
+p310
+sg8
+VPrivate Benjamin
+p311
+sg10
+VUSA
+p312
+sg12
+VHoward Zieff
+p313
+sg14
+VGoldie Hawn, Eileen Brennan, Armand Assante, Robert Webber
+p314
+sg16
+V1980
+p315
+sg18
+VComedy, War
+p316
+sba(i__main__
+Movie
+p317
+(dp318
+g6
+VPG
+p319
+sg8
+VCoal Miner's Daughter
+p320
+sg10
+VUSA
+p321
+sg12
+VMichael Apted
+p322
+sg14
+VSissy Spacek, Tommy Lee Jones, Levon Helm, Phyllis Boyens
+p323
+sg16
+V1980
+p324
+sg18
+VBiography, Drama, Music
+p325
+sba(i__main__
+Movie
+p326
+(dp327
+g6
+VPG
+p328
+sg8
+VSmokey and the Bandit II
+p329
+sg10
+VUSA
+p330
+sg12
+VHal Needham
+p331
+sg14
+VBurt Reynolds, Jackie Gleason, Jerry Reed, Dom DeLuise
+p332
+sg16
+V1980
+p333
+sg18
+VAction, Comedy
+p334
+sba(i__main__
+Movie
+p335
+(dp336
+g6
+VR
+p337
+sg8
+VThe Blue Lagoon
+p338
+sg10
+VUSA
+p339
+sg12
+VRandal Kleiser
+p340
+sg14
+VBrooke Shields, Christopher Atkins, Leo McKern, William Daniels
+p341
+sg16
+V1980
+p342
+sg18
+VAdventure, Drama, Romance
+p343
+sba(i__main__
+Movie
+p344
+(dp345
+g6
+VR
+p346
+sg8
+VThe Blues Brothers
+p347
+sg10
+VUSA
+p348
+sg12
+VJohn Landis
+p349
+sg14
+VJohn Belushi, Dan Aykroyd, James Brown, Cab Calloway
+p350
+sg16
+V1980
+p351
+sg18
+VAction, Comedy, Crime
+p352
+sba(i__main__
+Movie
+p353
+(dp354
+g6
+VPG
+p355
+sg8
+VRaiders of the Lost Ark
+p356
+sg10
+VUSA
+p357
+sg12
+VSteven Spielberg
+p358
+sg14
+VHarrison Ford, Karen Allen, Paul Freeman, Ronald Lacey
+p359
+sg16
+V1981
+p360
+sg18
+VAction, Adventure
+p361
+sba(i__main__
+Movie
+p362
+(dp363
+g6
+VPG
+p364
+sg8
+VOn Golden Pond
+p365
+sg10
+VUK, USA
+p366
+sg12
+VMark Rydell
+p367
+sg14
+VKatharine Hepburn, Henry Fonda, Jane Fonda, Doug McKeon
+p368
+sg16
+V1981
+p369
+sg18
+VDrama
+p370
+sba(i__main__
+Movie
+p371
+(dp372
+g6
+VPG
+p373
+sg8
+VArthur
+p374
+sg10
+VUSA
+p375
+sg12
+VSteve Gordon
+p376
+sg14
+VDudley Moore, Liza Minnelli, John Gielgud, Geraldine Fitzgerald
+p377
+sg16
+V1981
+p378
+sg18
+VComedy, Romance
+p379
+sba(i__main__
+Movie
+p380
+(dp381
+g6
+VR
+p382
+sg8
+VStripes
+p383
+sg10
+VUSA
+p384
+sg12
+VIvan Reitman
+p385
+sg14
+VBill Murray, Harold Ramis, Warren Oates, P.J. Soles
+p386
+sg16
+V1981
+p387
+sg18
+VAction, Comedy, War
+p388
+sba(i__main__
+Movie
+p389
+(dp390
+g6
+VPG
+p391
+sg8
+VThe Cannonball Run
+p392
+sg10
+VUSA, Hong Kong
+p393
+sg12
+VHal Needham
+p394
+sg14
+VBurt Reynolds, Roger Moore, Farrah Fawcett, Dom DeLuise
+p395
+sg16
+V1981
+p396
+sg18
+VAction, Comedy, Sport
+p397
+sba(i__main__
+Movie
+p398
+(dp399
+g6
+VPG
+p400
+sg8
+VChariots of Fire
+p401
+sg10
+VUK
+p402
+sg12
+VHugh Hudson
+p403
+sg14
+VNicholas Farrell, Nigel Havers, Ian Charleson, Ben Cross
+p404
+sg16
+V1981
+p405
+sg18
+VBiography, Drama, Sport
+p406
+sba(i__main__
+Movie
+p407
+(dp408
+g6
+VPG
+p409
+sg8
+VFor Your Eyes Only
+p410
+sg10
+VUK
+p411
+sg12
+VJohn Glen
+p412
+sg14
+VRoger Moore, Carole Bouquet, Haim Topol, Lynn-Holly Johnson
+p413
+sg16
+V1981
+p414
+sg18
+VAction, Adventure, Thriller
+p415
+sba(i__main__
+Movie
+p416
+(dp417
+g6
+VPG
+p418
+sg8
+VThe Four Seasons
+p419
+sg10
+VUSA
+p420
+sg12
+VAlan Alda
+p421
+sg14
+VAlan Alda, Carol Burnett, Len Cariou, Sandy Dennis
+p422
+sg16
+V1981
+p423
+sg18
+VComedy, Drama
+p424
+sba(i__main__
+Movie
+p425
+(dp426
+g6
+VPG
+p427
+sg8
+VTime Bandits
+p428
+sg10
+VUK
+p429
+sg12
+VTerry Gilliam
+p430
+sg14
+VJohn Cleese, Sean Connery, Shelley Duvall, Katherine Helmond
+p431
+sg16
+V1981
+p432
+sg18
+VAdventure, Comedy, Fantasy
+p433
+sba(i__main__
+Movie
+p434
+(dp435
+g6
+VPG
+p436
+sg8
+VE.T. the Extra-Terrestrial
+p437
+sg10
+VUSA
+p438
+sg12
+VSteven Spielberg
+p439
+sg14
+VDee Wallace, Henry Thomas, Peter Coyote, Robert MacNaughton
+p440
+sg16
+V1982
+p441
+sg18
+VFamily, Sci-Fi
+p442
+sba(i__main__
+Movie
+p443
+(dp444
+g6
+VPG
+p445
+sg8
+VTootsie
+p446
+sg10
+VUSA
+p447
+sg12
+VSydney Pollack
+p448
+sg14
+VDustin Hoffman, Jessica Lange, Teri Garr, Dabney Coleman
+p449
+sg16
+V1982
+p450
+sg18
+VComedy, Drama, Romance
+p451
+sba(i__main__
+Movie
+p452
+(dp453
+g6
+VR
+p454
+sg8
+VAn Officer and a Gentleman
+p455
+sg10
+VUSA
+p456
+sg12
+VTaylor Hackford
+p457
+sg14
+VRichard Gere, Debra Winger, David Keith, Robert Loggia
+p458
+sg16
+V1982
+p459
+sg18
+VDrama, Romance
+p460
+sba(i__main__
+Movie
+p461
+(dp462
+g6
+VPG
+p463
+sg8
+VRocky III
+p464
+sg10
+VUSA
+p465
+sg12
+VSylvester Stallone
+p466
+sg14
+VSylvester Stallone, Talia Shire, Burt Young, Carl Weathers
+p467
+sg16
+V1982
+p468
+sg18
+VDrama, Sport
+p469
+sba(i__main__
+Movie
+p470
+(dp471
+g6
+VPG
+p472
+sg8
+VStar Trek II: The Wrath of Khan
+p473
+sg10
+VUSA
+p474
+sg12
+VNicholas Meyer
+p475
+sg14
+VWilliam Shatner, Leonard Nimoy, DeForest Kelley, James Doohan
+p476
+sg16
+V1982
+p477
+sg18
+VAction, Adventure, Sci-Fi
+p478
+sba(i__main__
+Movie
+p479
+(dp480
+g6
+VR
+p481
+sg8
+V48 Hrs.
+p482
+sg10
+VUSA
+p483
+sg12
+VWalter Hill
+p484
+sg14
+VNick Nolte, Eddie Murphy, Annette O'Toole, Frank McRae
+p485
+sg16
+V1982
+p486
+sg18
+VAction, Comedy, Crime
+p487
+sba(i__main__
+Movie
+p488
+(dp489
+g6
+VPG
+p490
+sg8
+VPoltergeist
+p491
+sg10
+VUSA
+p492
+sg12
+VTobe Hooper
+p493
+sg14
+VCraig T. Nelson, JoBeth Williams, Beatrice Straight, Dominique Dunne
+p494
+sg16
+V1982
+p495
+sg18
+VFantasy, Horror
+p496
+sba(i__main__
+Movie
+p497
+(dp498
+g6
+VR
+p499
+sg8
+VThe Best Little Whorehouse in Texas
+p500
+sg10
+VUSA
+p501
+sg12
+VColin Higgins
+p502
+sg14
+VBurt Reynolds, Dolly Parton, Dom DeLuise, Charles Durning
+p503
+sg16
+V1982
+p504
+sg18
+VComedy, Musical
+p505
+sba(i__main__
+Movie
+p506
+(dp507
+g6
+VPG
+p508
+sg8
+VAnnie
+p509
+sg10
+VUSA
+p510
+sg12
+VJohn Huston
+p511
+sg14
+VAlbert Finney, Carol Burnett, Ann Reinking, Tim Curry
+p512
+sg16
+V1982
+p513
+sg18
+VComedy, Drama, Family
+p514
+sba(i__main__
+Movie
+p515
+(dp516
+g6
+VN/A
+p517
+sg8
+VReturn of the Jedi
+p518
+sg10
+VUSA
+p519
+sg12
+VN/A
+p520
+sg14
+VN/A
+p521
+sg16
+V1983
+p522
+sg18
+VAction, Adventure, Sci-Fi
+p523
+sba(i__main__
+Movie
+p524
+(dp525
+g6
+VR
+p526
+sg8
+VFlashdance
+p527
+sg10
+VUSA
+p528
+sg12
+VAdrian Lyne
+p529
+sg14
+VJennifer Beals, Michael Nouri, Lilia Skala, Sunny Johnson
+p530
+sg16
+V1983
+p531
+sg18
+VDrama, Music, Romance
+p532
+sba(i__main__
+Movie
+p533
+(dp534
+g6
+VR
+p535
+sg8
+VTrading Places
+p536
+sg10
+VUSA
+p537
+sg12
+VJohn Landis
+p538
+sg14
+VDenholm Elliott, Dan Aykroyd, Maurice Woods, Richard D. Fisher Jr.
+p539
+sg16
+V1983
+p540
+sg18
+VComedy
+p541
+sba(i__main__
+Movie
+p542
+(dp543
+g6
+VPG
+p544
+sg8
+VWarGames
+p545
+sg10
+VUSA
+p546
+sg12
+VJohn Badham
+p547
+sg14
+VMatthew Broderick, Dabney Coleman, John Wood, Ally Sheedy
+p548
+sg16
+V1983
+p549
+sg18
+VSci-Fi, Thriller
+p550
+sba(i__main__
+Movie
+p551
+(dp552
+g6
+VPG
+p553
+sg8
+VOctopussy
+p554
+sg10
+VUK, USA
+p555
+sg12
+VJohn Glen
+p556
+sg14
+VRoger Moore, Maud Adams, Louis Jourdan, Kristina Wayborn
+p557
+sg16
+V1983
+p558
+sg18
+VAction, Adventure, Thriller
+p559
+sba(i__main__
+Movie
+p560
+(dp561
+g6
+VR
+p562
+sg8
+VSudden Impact
+p563
+sg10
+VUSA
+p564
+sg12
+VClint Eastwood
+p565
+sg14
+VClint Eastwood, Sondra Locke, Pat Hingle, Bradford Dillman
+p566
+sg16
+V1983
+p567
+sg18
+VAction, Thriller
+p568
+sba(i__main__
+Movie
+p569
+(dp570
+g6
+VPG
+p571
+sg8
+VStaying Alive
+p572
+sg10
+VUSA
+p573
+sg12
+VSylvester Stallone
+p574
+sg14
+VJohn Travolta, Cynthia Rhodes, Finola Hughes, Steve Inwood
+p575
+sg16
+V1983
+p576
+sg18
+VDrama, Music, Romance
+p577
+sba(i__main__
+Movie
+p578
+(dp579
+g6
+VPG
+p580
+sg8
+VMr. Mom
+p581
+sg10
+VUSA
+p582
+sg12
+VStan Dragoti
+p583
+sg14
+VMichael Keaton, Teri Garr, Frederick Koehler, Taliesin Jaffe
+p584
+sg16
+V1983
+p585
+sg18
+VComedy, Drama
+p586
+sba(i__main__
+Movie
+p587
+(dp588
+g6
+VR
+p589
+sg8
+VRisky Business
+p590
+sg10
+VUSA
+p591
+sg12
+VPaul Brickman
+p592
+sg14
+VTom Cruise, Rebecca De Mornay, Joe Pantoliano, Richard Masur
+p593
+sg16
+V1983
+p594
+sg18
+VComedy, Crime, Drama
+p595
+sba(i__main__
+Movie
+p596
+(dp597
+g6
+VR
+p598
+sg8
+VBeverly Hills Cop
+p599
+sg10
+VUSA
+p600
+sg12
+VMartin Brest
+p601
+sg14
+VEddie Murphy, Judge Reinhold, John Ashton, Lisa Eilbacher
+p602
+sg16
+V1984
+p603
+sg18
+VAction, Comedy, Crime
+p604
+sba(i__main__
+Movie
+p605
+(dp606
+g6
+VPG
+p607
+sg8
+VGhostbusters
+p608
+sg10
+VUSA
+p609
+sg12
+VIvan Reitman
+p610
+sg14
+VBill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis
+p611
+sg16
+V1984
+p612
+sg18
+VAction, Adventure, Comedy
+p613
+sba(i__main__
+Movie
+p614
+(dp615
+g6
+VPG
+p616
+sg8
+VIndiana Jones and the Temple of Doom
+p617
+sg10
+VUSA
+p618
+sg12
+VSteven Spielberg
+p619
+sg14
+VHarrison Ford, Kate Capshaw, Jonathan Ke Quan, Amrish Puri
+p620
+sg16
+V1984
+p621
+sg18
+VAction, Adventure
+p622
+sba(i__main__
+Movie
+p623
+(dp624
+g6
+VPG
+p625
+sg8
+VGremlins
+p626
+sg10
+VUSA
+p627
+sg12
+VJoe Dante
+p628
+sg14
+VHoyt Axton, John Louie, Keye Luke, Don Steele
+p629
+sg16
+V1984
+p630
+sg18
+VComedy, Fantasy, Horror
+p631
+sba(i__main__
+Movie
+p632
+(dp633
+g6
+VPG
+p634
+sg8
+VThe Karate Kid
+p635
+sg10
+VUSA
+p636
+sg12
+VJohn G. Avildsen
+p637
+sg14
+VRalph Macchio, Pat Morita, Elisabeth Shue, Martin Kove
+p638
+sg16
+V1984
+p639
+sg18
+VAction, Drama, Family
+p640
+sba(i__main__
+Movie
+p641
+(dp642
+g6
+VR
+p643
+sg8
+VPolice Academy
+p644
+sg10
+VUSA
+p645
+sg12
+VHugh Wilson
+p646
+sg14
+VSteve Guttenberg, Kim Cattrall, G.W. Bailey, Bubba Smith
+p647
+sg16
+V1984
+p648
+sg18
+VComedy
+p649
+sba(i__main__
+Movie
+p650
+(dp651
+g6
+VPG
+p652
+sg8
+VFootloose
+p653
+sg10
+VUSA
+p654
+sg12
+VHerbert Ross
+p655
+sg14
+VKevin Bacon, Lori Singer, John Lithgow, Dianne Wiest
+p656
+sg16
+V1984
+p657
+sg18
+VDrama, Music, Romance
+p658
+sba(i__main__
+Movie
+p659
+(dp660
+g6
+VPG
+p661
+sg8
+VRomancing the Stone
+p662
+sg10
+VUSA, Mexico
+p663
+sg12
+VRobert Zemeckis
+p664
+sg14
+VMichael Douglas, Kathleen Turner, Danny DeVito, Zack Norman
+p665
+sg16
+V1984
+p666
+sg18
+VAction, Adventure, Comedy
+p667
+sba(i__main__
+Movie
+p668
+(dp669
+g6
+VPG
+p670
+sg8
+VStar Trek III: The Search for Spock
+p671
+sg10
+VUSA
+p672
+sg12
+VLeonard Nimoy
+p673
+sg14
+VWilliam Shatner, Leonard Nimoy, DeForest Kelley, James Doohan
+p674
+sg16
+V1984
+p675
+sg18
+VAction, Adventure, Sci-Fi
+p676
+sba(i__main__
+Movie
+p677
+(dp678
+g6
+VPG
+p679
+sg8
+VSplash
+p680
+sg10
+VUSA
+p681
+sg12
+VRon Howard
+p682
+sg14
+VTom Hanks, Daryl Hannah, Eugene Levy, John Candy
+p683
+sg16
+V1984
+p684
+sg18
+VComedy, Fantasy, Romance
+p685
+sba(i__main__
+Movie
+p686
+(dp687
+g6
+VPG
+p688
+sg8
+VBack to the Future
+p689
+sg10
+VUSA
+p690
+sg12
+VRobert Zemeckis
+p691
+sg14
+VMichael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover
+p692
+sg16
+V1985
+p693
+sg18
+VAdventure, Comedy, Sci-Fi
+p694
+sba(i__main__
+Movie
+p695
+(dp696
+g6
+VR
+p697
+sg8
+VRambo: First Blood Part II
+p698
+sg10
+VUSA
+p699
+sg12
+VGeorge P. Cosmatos
+p700
+sg14
+VSylvester Stallone, Richard Crenna, Charles Napier, Steven Berkoff
+p701
+sg16
+V1985
+p702
+sg18
+VAction, Adventure, Thriller
+p703
+sba(i__main__
+Movie
+p704
+(dp705
+g6
+VPG
+p706
+sg8
+VRocky IV
+p707
+sg10
+VUSA
+p708
+sg12
+VSylvester Stallone
+p709
+sg14
+VSylvester Stallone, Talia Shire, Burt Young, Carl Weathers
+p710
+sg16
+V1985
+p711
+sg18
+VDrama, Sport
+p712
+sba(i__main__
+Movie
+p713
+(dp714
+g6
+VPG-13
+p715
+sg8
+VThe Color Purple
+p716
+sg10
+VUSA
+p717
+sg12
+VSteven Spielberg
+p718
+sg14
+VDanny Glover, Whoopi Goldberg, Margaret Avery, Oprah Winfrey
+p719
+sg16
+V1985
+p720
+sg18
+VDrama
+p721
+sba(i__main__
+Movie
+p722
+(dp723
+g6
+VPG
+p724
+sg8
+VOut of Africa
+p725
+sg10
+VUSA, UK
+p726
+sg12
+VSydney Pollack
+p727
+sg14
+VMeryl Streep, Robert Redford, Klaus Maria Brandauer, Michael Kitchen
+p728
+sg16
+V1985
+p729
+sg18
+VBiography, Drama, Romance
+p730
+sba(i__main__
+Movie
+p731
+(dp732
+g6
+VPG-13
+p733
+sg8
+VCocoon
+p734
+sg10
+VUSA
+p735
+sg12
+VRon Howard
+p736
+sg14
+VDon Ameche, Wilford Brimley, Hume Cronyn, Brian Dennehy
+p737
+sg16
+V1985
+p738
+sg18
+VSci-Fi
+p739
+sba(i__main__
+Movie
+p740
+(dp741
+g6
+VPG
+p742
+sg8
+VThe Jewel of the Nile
+p743
+sg10
+VUSA
+p744
+sg12
+VLewis Teague
+p745
+sg14
+VMichael Douglas, Kathleen Turner, Danny DeVito, Spiros Focás
+p746
+sg16
+V1985
+p747
+sg18
+VAction, Adventure, Comedy
+p748
+sba(i__main__
+Movie
+p749
+(dp750
+g6
+VR
+p751
+sg8
+VWitness
+p752
+sg10
+VUSA
+p753
+sg12
+VPeter Weir
+p754
+sg14
+VHarrison Ford, Kelly McGillis, Josef Sommer, Lukas Haas
+p755
+sg16
+V1985
+p756
+sg18
+VCrime, Drama, Romance
+p757
+sba(i__main__
+Movie
+p758
+(dp759
+g6
+VPG
+p760
+sg8
+VThe Goonies
+p761
+sg10
+VUSA
+p762
+sg12
+VRichard Donner
+p763
+sg14
+VSean Astin, Josh Brolin, Jeff Cohen, Corey Feldman
+p764
+sg16
+V1985
+p765
+sg18
+VAdventure, Comedy, Family
+p766
+sba(i__main__
+Movie
+p767
+(dp768
+g6
+VPG
+p769
+sg8
+VSpies Like Us
+p770
+sg10
+VUSA
+p771
+sg12
+VJohn Landis
+p772
+sg14
+VChevy Chase, Dan Aykroyd, Steve Forrest, Donna Dixon
+p773
+sg16
+V1985
+p774
+sg18
+VAdventure, Comedy
+p775
+sba(i__main__
+Movie
+p776
+(dp777
+g6
+VPG
+p778
+sg8
+VTop Gun
+p779
+sg10
+VUSA
+p780
+sg12
+VTony Scott
+p781
+sg14
+VTom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+p782
+sg16
+V1986
+p783
+sg18
+VAction, Drama, Romance
+p784
+sba(i__main__
+Movie
+p785
+(dp786
+g6
+VPG-13
+p787
+sg8
+VCrocodile Dundee
+p788
+sg10
+VAustralia
+p789
+sg12
+VPeter Faiman
+p790
+sg14
+VPaul Hogan, Linda Kozlowski, John Meillon, David Gulpilil
+p791
+sg16
+V1986
+p792
+sg18
+VAdventure, Comedy
+p793
+sba(i__main__
+Movie
+p794
+(dp795
+g6
+VR
+p796
+sg8
+VPlatoon
+p797
+sg10
+VUK, USA
+p798
+sg12
+VOliver Stone
+p799
+sg14
+VTom Berenger, Keith David, Willem Dafoe, Forest Whitaker
+p800
+sg16
+V1986
+p801
+sg18
+VDrama, War
+p802
+sba(i__main__
+Movie
+p803
+(dp804
+g6
+VPG
+p805
+sg8
+VThe Karate Kid Part II
+p806
+sg10
+VUSA
+p807
+sg12
+VJohn G. Avildsen
+p808
+sg14
+VPat Morita, Ralph Macchio, Pat E. Johnson, Bruce Malmuth
+p809
+sg16
+V1986
+p810
+sg18
+VAction, Family, Romance
+p811
+sba(i__main__
+Movie
+p812
+(dp813
+g6
+VPG
+p814
+sg8
+VStar Trek IV: The Voyage Home
+p815
+sg10
+VUSA
+p816
+sg12
+VLeonard Nimoy
+p817
+sg14
+VWilliam Shatner, Leonard Nimoy, DeForest Kelley, James Doohan
+p818
+sg16
+V1986
+p819
+sg18
+VAdventure, Comedy, Sci-Fi
+p820
+sba(i__main__
+Movie
+p821
+(dp822
+g6
+VR
+p823
+sg8
+VAliens
+p824
+sg10
+VUSA, UK
+p825
+sg12
+VJames Cameron
+p826
+sg14
+VSigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser
+p827
+sg16
+V1986
+p828
+sg18
+VAction, Adventure, Sci-Fi
+p829
+sba(i__main__
+Movie
+p830
+(dp831
+g6
+VPG-13
+p832
+sg8
+VThe Golden Child
+p833
+sg10
+VUSA
+p834
+sg12
+VMichael Ritchie
+p835
+sg14
+VJ.L. Reate, Eddie Murphy, Charles Dance, Charlotte Lewis
+p836
+sg16
+V1986
+p837
+sg18
+VAction, Adventure, Comedy
+p838
+sba(i__main__
+Movie
+p839
+(dp840
+g6
+VR
+p841
+sg8
+VRuthless People
+p842
+sg10
+VUSA
+p843
+sg12
+VJim Abrahams, David Zucker, Jerry Zucker
+p844
+sg14
+VDanny DeVito, Bette Midler, Judge Reinhold, Helen Slater
+p845
+sg16
+V1986
+p846
+sg18
+VComedy, Crime
+p847
+sba(i__main__
+Movie
+p848
+(dp849
+g6
+VPG-13
+p850
+sg8
+VFerris Bueller's Day Off
+p851
+sg10
+VUSA
+p852
+sg12
+VJohn Hughes
+p853
+sg14
+VMatthew Broderick, Alan Ruck, Mia Sara, Jeffrey Jones
+p854
+sg16
+V1986
+p855
+sg18
+VComedy
+p856
+sba(i__main__
+Movie
+p857
+(dp858
+g6
+VR
+p859
+sg8
+VFatal Attraction
+p860
+sg10
+VUSA
+p861
+sg12
+VAdrian Lyne
+p862
+sg14
+VMichael Douglas, Glenn Close, Anne Archer, Ellen Latzen
+p863
+sg16
+V1987
+p864
+sg18
+VDrama, Romance, Thriller
+p865
+sba(i__main__
+Movie
+p866
+(dp867
+g6
+VR
+p868
+sg8
+VBeverly Hills Cop II
+p869
+sg10
+VUSA
+p870
+sg12
+VTony Scott
+p871
+sg14
+VEddie Murphy, Judge Reinhold, Jürgen Prochnow, Ronny Cox
+p872
+sg16
+V1987
+p873
+sg18
+VAction, Comedy, Crime
+p874
+sba(i__main__
+Movie
+p875
+(dp876
+g6
+VR
+p877
+sg8
+VGood Morning, Vietnam
+p878
+sg10
+VUSA
+p879
+sg12
+VBarry Levinson
+p880
+sg14
+VRobin Williams, Forest Whitaker, Tung Thanh Tran, Chintara Sukapatana
+p881
+sg16
+V1987
+p882
+sg18
+VBiography, Comedy, Drama
+p883
+sba(i__main__
+Movie
+p884
+(dp885
+g6
+VPG
+p886
+sg8
+VMoonstruck
+p887
+sg10
+VUSA
+p888
+sg12
+VNorman Jewison
+p889
+sg14
+VCher, Nicolas Cage, Vincent Gardenia, Olympia Dukakis
+p890
+sg16
+V1987
+p891
+sg18
+VComedy, Drama, Romance
+p892
+sba(i__main__
+Movie
+p893
+(dp894
+g6
+VR
+p895
+sg8
+VThe Untouchables
+p896
+sg10
+VUSA
+p897
+sg12
+VBrian De Palma
+p898
+sg14
+VKevin Costner, Sean Connery, Charles Martin Smith, Andy Garcia
+p899
+sg16
+V1987
+p900
+sg18
+VCrime, Drama, Thriller
+p901
+sba(i__main__
+Movie
+p902
+(dp903
+g6
+VR
+p904
+sg8
+VStakeout
+p905
+sg10
+VUSA
+p906
+sg12
+VJohn Badham
+p907
+sg14
+VRichard Dreyfuss, Emilio Estevez, Madeleine Stowe, Aidan Quinn
+p908
+sg16
+V1987
+p909
+sg18
+VComedy, Thriller
+p910
+sba(i__main__
+Movie
+p911
+(dp912
+g6
+VR
+p913
+sg8
+VLethal Weapon
+p914
+sg10
+VUSA
+p915
+sg12
+VRichard Donner
+p916
+sg14
+VMel Gibson, Danny Glover, Gary Busey, Mitchell Ryan
+p917
+sg16
+V1987
+p918
+sg18
+VAction, Crime, Thriller
+p919
+sba(i__main__
+Movie
+p920
+(dp921
+g6
+VR
+p922
+sg8
+VThe Witches of Eastwick
+p923
+sg10
+VUSA
+p924
+sg12
+VGeorge Miller
+p925
+sg14
+VJack Nicholson, Cher, Susan Sarandon, Michelle Pfeiffer
+p926
+sg16
+V1987
+p927
+sg18
+VComedy, Fantasy, Horror
+p928
+sba(i__main__
+Movie
+p929
+(dp930
+g6
+VR
+p931
+sg8
+VRain Man
+p932
+sg10
+VUSA
+p933
+sg12
+VBarry Levinson
+p934
+sg14
+VDustin Hoffman, Tom Cruise, Valeria Golino, Gerald R. Molen
+p935
+sg16
+V1988
+p936
+sg18
+VDrama
+p937
+sba(i__main__
+Movie
+p938
+(dp939
+g6
+VPG
+p940
+sg8
+VWho Framed Roger Rabbit
+p941
+sg10
+VUSA
+p942
+sg12
+VRobert Zemeckis
+p943
+sg14
+VBob Hoskins, Christopher Lloyd, Joanna Cassidy, Charles Fleischer
+p944
+sg16
+V1988
+p945
+sg18
+VAnimation, Adventure, Comedy
+p946
+sba(i__main__
+Movie
+p947
+(dp948
+g6
+VR
+p949
+sg8
+VComing to America
+p950
+sg10
+VUSA
+p951
+sg12
+VJohn Landis
+p952
+sg14
+VEddie Murphy, Arsenio Hall, James Earl Jones, John Amos
+p953
+sg16
+V1988
+p954
+sg18
+VComedy, Romance
+p955
+sba(i__main__
+Movie
+p956
+(dp957
+g6
+VPG
+p958
+sg8
+VBig
+p959
+sg10
+VUSA
+p960
+sg12
+VPenny Marshall
+p961
+sg14
+VTom Hanks, Elizabeth Perkins, Robert Loggia, John Heard
+p962
+sg16
+V1988
+p963
+sg18
+VComedy, Drama, Family
+p964
+sba(i__main__
+Movie
+p965
+(dp966
+g6
+VPG
+p967
+sg8
+VTwins
+p968
+sg10
+VUSA
+p969
+sg12
+VIvan Reitman
+p970
+sg14
+VArnold Schwarzenegger, Danny DeVito, Kelly Preston, Chloe Webb
+p971
+sg16
+V1988
+p972
+sg18
+VComedy, Crime
+p973
+sba(i__main__
+Movie
+p974
+(dp975
+g6
+VPG
+p976
+sg8
+VCrocodile Dundee II
+p977
+sg10
+VAustralia, USA
+p978
+sg12
+VJohn Cornell
+p979
+sg14
+VPaul Hogan, Linda Kozlowski, John Meillon, Ernie Dingo
+p980
+sg16
+V1988
+p981
+sg18
+VAction, Adventure, Comedy
+p982
+sba(i__main__
+Movie
+p983
+(dp984
+g6
+VR
+p985
+sg8
+VDie Hard
+p986
+sg10
+VUSA
+p987
+sg12
+VJohn McTiernan
+p988
+sg14
+VBruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason
+p989
+sg16
+V1988
+p990
+sg18
+VAction, Thriller
+p991
+sba(i__main__
+Movie
+p992
+(dp993
+g6
+VPG-13
+p994
+sg8
+VThe Naked Gun: From the Files of Police Squad!
+p995
+sg10
+VUSA
+p996
+sg12
+VDavid Zucker
+p997
+sg14
+VLeslie Nielsen, Priscilla Presley, Ricardo Montalban, George Kennedy
+p998
+sg16
+V1988
+p999
+sg18
+VComedy, Crime
+p1000
+sba(i__main__
+Movie
+p1001
+(dp1002
+g6
+VR
+p1003
+sg8
+VCocktail
+p1004
+sg10
+VUSA
+p1005
+sg12
+VRoger Donaldson
+p1006
+sg14
+VTom Cruise, Bryan Brown, Elisabeth Shue, Lisa Banes
+p1007
+sg16
+V1988
+p1008
+sg18
+VComedy, Drama, Romance
+p1009
+sba(i__main__
+Movie
+p1010
+(dp1011
+g6
+VPG
+p1012
+sg8
+VBeetlejuice
+p1013
+sg10
+VUSA
+p1014
+sg12
+VTim Burton
+p1015
+sg14
+VAlec Baldwin, Geena Davis, Annie McEnroe, Maurice Page
+p1016
+sg16
+V1988
+p1017
+sg18
+VComedy, Fantasy
+p1018
+sba(i__main__
+Movie
+p1019
+(dp1020
+g6
+VPG-13
+p1021
+sg8
+VIndiana Jones and the Last Crusade
+p1022
+sg10
+VUSA
+p1023
+sg12
+VSteven Spielberg
+p1024
+sg14
+VHarrison Ford, Sean Connery, Denholm Elliott, Alison Doody
+p1025
+sg16
+V1989
+p1026
+sg18
+VAction, Adventure, Fantasy
+p1027
+sba(i__main__
+Movie
+p1028
+(dp1029
+g6
+VPG-13
+p1030
+sg8
+VBatman
+p1031
+sg10
+VUSA, UK
+p1032
+sg12
+VTim Burton
+p1033
+sg14
+VMichael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+p1034
+sg16
+V1989
+p1035
+sg18
+VAction, Adventure
+p1036
+sba(i__main__
+Movie
+p1037
+(dp1038
+g6
+VPG
+p1039
+sg8
+VBack to the Future Part II
+p1040
+sg10
+VUSA
+p1041
+sg12
+VRobert Zemeckis
+p1042
+sg14
+VMichael J. Fox, Christopher Lloyd, Lea Thompson, Thomas F. Wilson
+p1043
+sg16
+V1989
+p1044
+sg18
+VAdventure, Comedy, Sci-Fi
+p1045
+sba(i__main__
+Movie
+p1046
+(dp1047
+g6
+VPG-13
+p1048
+sg8
+VLook Who's Talking
+p1049
+sg10
+VUSA
+p1050
+sg12
+VAmy Heckerling
+p1051
+sg14
+VJohn Travolta, Kirstie Alley, Olympia Dukakis, George Segal
+p1052
+sg16
+V1989
+p1053
+sg18
+VComedy
+p1054
+sba(i__main__
+Movie
+p1055
+(dp1056
+g6
+VPG
+p1057
+sg8
+VDead Poets Society
+p1058
+sg10
+VUSA
+p1059
+sg12
+VPeter Weir
+p1060
+sg14
+VRobin Williams, Robert Sean Leonard, Ethan Hawke, Josh Charles
+p1061
+sg16
+V1989
+p1062
+sg18
+VComedy, Drama
+p1063
+sba(i__main__
+Movie
+p1064
+(dp1065
+g6
+VR
+p1066
+sg8
+VLethal Weapon 2
+p1067
+sg10
+VUSA
+p1068
+sg12
+VRichard Donner
+p1069
+sg14
+VMel Gibson, Danny Glover, Joe Pesci, Joss Ackland
+p1070
+sg16
+V1989
+p1071
+sg18
+VAction, Crime, Thriller
+p1072
+sba(i__main__
+Movie
+p1073
+(dp1074
+g6
+VPG
+p1075
+sg8
+VHoney, I Shrunk the Kids
+p1076
+sg10
+VUSA, Mexico
+p1077
+sg12
+VJoe Johnston
+p1078
+sg14
+VRick Moranis, Matt Frewer, Marcia Strassman, Kristine Sutherland
+p1079
+sg16
+V1989
+p1080
+sg18
+VAdventure, Comedy, Family
+p1081
+sba(i__main__
+Movie
+p1082
+(dp1083
+g6
+VPG
+p1084
+sg8
+VGhostbusters II
+p1085
+sg10
+VUSA
+p1086
+sg12
+VIvan Reitman
+p1087
+sg14
+VBill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis
+p1088
+sg16
+V1989
+p1089
+sg18
+VAction, Comedy, Fantasy
+p1090
+sba(i__main__
+Movie
+p1091
+(dp1092
+g6
+VG
+p1093
+sg8
+VThe Little Mermaid
+p1094
+sg10
+VUSA
+p1095
+sg12
+VRon Clements, John Musker
+p1096
+sg14
+VRene Auberjonois, Christopher Daniel Barnes, Jodi Benson, Pat Carroll
+p1097
+sg16
+V1989
+p1098
+sg18
+VAnimation, Family, Fantasy
+p1099
+sba(i__main__
+Movie
+p1100
+(dp1101
+g6
+VR
+p1102
+sg8
+VBorn on the Fourth of July
+p1103
+sg10
+VUSA
+p1104
+sg12
+VOliver Stone
+p1105
+sg14
+VTom Cruise, Raymond J. Barry, Caroline Kava, Josh Evans
+p1106
+sg16
+V1989
+p1107
+sg18
+VBiography, Drama, War
+p1108
+sba(i__main__
+Movie
+p1109
+(dp1110
+g6
+VPG-13
+p1111
+sg8
+VGhost
+p1112
+sg10
+VUSA
+p1113
+sg12
+VJerry Zucker
+p1114
+sg14
+VPatrick Swayze, Demi Moore, Whoopi Goldberg, Tony Goldwyn
+p1115
+sg16
+V1990
+p1116
+sg18
+VDrama, Fantasy, Romance
+p1117
+sba(i__main__
+Movie
+p1118
+(dp1119
+g6
+VPG
+p1120
+sg8
+VHome Alone
+p1121
+sg10
+VUSA
+p1122
+sg12
+VChris Columbus
+p1123
+sg14
+VMacaulay Culkin, Joe Pesci, Daniel Stern, John Heard
+p1124
+sg16
+V1990
+p1125
+sg18
+VComedy, Family
+p1126
+sba(i__main__
+Movie
+p1127
+(dp1128
+g6
+VR
+p1129
+sg8
+VPretty Woman
+p1130
+sg10
+VUSA
+p1131
+sg12
+VGarry Marshall
+p1132
+sg14
+VRichard Gere, Julia Roberts, Ralph Bellamy, Jason Alexander
+p1133
+sg16
+V1990
+p1134
+sg18
+VComedy, Romance
+p1135
+sba(i__main__
+Movie
+p1136
+(dp1137
+g6
+VPG-13
+p1138
+sg8
+VDances with Wolves
+p1139
+sg10
+VUSA, UK
+p1140
+sg12
+VKevin Costner
+p1141
+sg14
+VKevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant
+p1142
+sg16
+V1990
+p1143
+sg18
+VAdventure, Drama, Western
+p1144
+sba(i__main__
+Movie
+p1145
+(dp1146
+g6
+VR
+p1147
+sg8
+VTotal Recall
+p1148
+sg10
+VUSA
+p1149
+sg12
+VPaul Verhoeven
+p1150
+sg14
+VArnold Schwarzenegger, Rachel Ticotin, Sharon Stone, Ronny Cox
+p1151
+sg16
+V1990
+p1152
+sg18
+VAction, Sci-Fi
+p1153
+sba(i__main__
+Movie
+p1154
+(dp1155
+g6
+VPG
+p1156
+sg8
+VBack to the Future Part III
+p1157
+sg10
+VUSA
+p1158
+sg12
+VRobert Zemeckis
+p1159
+sg14
+VMichael J. Fox, Christopher Lloyd, Mary Steenburgen, Thomas F. Wilson
+p1160
+sg16
+V1990
+p1161
+sg18
+VAction, Adventure, Comedy
+p1162
+sba(i__main__
+Movie
+p1163
+(dp1164
+g6
+VR
+p1165
+sg8
+VDie Hard 2
+p1166
+sg10
+VUSA
+p1167
+sg12
+VRenny Harlin
+p1168
+sg14
+VBruce Willis, Bonnie Bedelia, William Atherton, Reginald VelJohnson
+p1169
+sg16
+V1990
+p1170
+sg18
+VAction, Thriller
+p1171
+sba(i__main__
+Movie
+p1172
+(dp1173
+g6
+VR
+p1174
+sg8
+VPresumed Innocent
+p1175
+sg10
+VUSA
+p1176
+sg12
+VAlan J. Pakula
+p1177
+sg14
+VHarrison Ford, Brian Dennehy, Raul Julia, Bonnie Bedelia
+p1178
+sg16
+V1990
+p1179
+sg18
+VMystery, Thriller
+p1180
+sba(i__main__
+Movie
+p1181
+(dp1182
+g6
+VPG
+p1183
+sg8
+VTeenage Mutant Ninja Turtles
+p1184
+sg10
+VUSA, Hong Kong
+p1185
+sg12
+VSteve Barron
+p1186
+sg14
+VJudith Hoag, Elias Koteas, Josh Pais, David Forman
+p1187
+sg16
+V1990
+p1188
+sg18
+VAction, Adventure, Comedy
+p1189
+sba(i__main__
+Movie
+p1190
+(dp1191
+g6
+VPG-13
+p1192
+sg8
+VKindergarten Cop
+p1193
+sg10
+VUSA
+p1194
+sg12
+VIvan Reitman
+p1195
+sg14
+VArnold Schwarzenegger, Penelope Ann Miller, Pamela Reed, Linda Hunt
+p1196
+sg16
+V1990
+p1197
+sg18
+VAction, Comedy, Crime
+p1198
+sba(i__main__
+Movie
+p1199
+(dp1200
+g6
+VR
+p1201
+sg8
+VTerminator 2: Judgment Day
+p1202
+sg10
+VUSA, France
+p1203
+sg12
+VJames Cameron
+p1204
+sg14
+VArnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick
+p1205
+sg16
+V1991
+p1206
+sg18
+VAction, Sci-Fi, Thriller
+p1207
+sba(i__main__
+Movie
+p1208
+(dp1209
+g6
+VPG-13
+p1210
+sg8
+VRobin Hood: Prince of Thieves
+p1211
+sg10
+VUSA
+p1212
+sg12
+VKevin Reynolds
+p1213
+sg14
+VKevin Costner, Morgan Freeman, Mary Elizabeth Mastrantonio, Christian Slater
+p1214
+sg16
+V1991
+p1215
+sg18
+VAction, Adventure, Drama
+p1216
+sba(i__main__
+Movie
+p1217
+(dp1218
+g6
+VG
+p1219
+sg8
+VBeauty and the Beast
+p1220
+sg10
+VUSA
+p1221
+sg12
+VGary Trousdale, Kirk Wise
+p1222
+sg14
+VRobby Benson, Jesse Corti, Rex Everhart, Angela Lansbury
+p1223
+sg16
+V1991
+p1224
+sg18
+VAnimation, Family, Fantasy
+p1225
+sba(i__main__
+Movie
+p1226
+(dp1227
+g6
+VPG
+p1228
+sg8
+VHook
+p1229
+sg10
+VUSA
+p1230
+sg12
+VSteven Spielberg
+p1231
+sg14
+VDustin Hoffman, Robin Williams, Julia Roberts, Bob Hoskins
+p1232
+sg16
+V1991
+p1233
+sg18
+VAdventure, Comedy, Family
+p1234
+sba(i__main__
+Movie
+p1235
+(dp1236
+g6
+VR
+p1237
+sg8
+VThe Silence of the Lambs
+p1238
+sg10
+VUSA
+p1239
+sg12
+VJonathan Demme
+p1240
+sg14
+VJodie Foster, Lawrence A. Bonney, Kasi Lemmons, Lawrence T. Wrentz
+p1241
+sg16
+V1991
+p1242
+sg18
+VCrime, Drama, Thriller
+p1243
+sba(i__main__
+Movie
+p1244
+(dp1245
+g6
+VR
+p1246
+sg8
+VJFK
+p1247
+sg10
+VFrance, USA
+p1248
+sg12
+VOliver Stone
+p1249
+sg14
+VSally Kirkland, Anthony Ramirez, Ray LePere, Steve Reed
+p1250
+sg16
+V1991
+p1251
+sg18
+VDrama, History, Thriller
+p1252
+sba(i__main__
+Movie
+p1253
+(dp1254
+g6
+VPG-13
+p1255
+sg8
+VThe Addams Family
+p1256
+sg10
+VUSA
+p1257
+sg12
+VBarry Sonnenfeld
+p1258
+sg14
+VAnjelica Huston, Raul Julia, Christopher Lloyd, Dan Hedaya
+p1259
+sg16
+V1991
+p1260
+sg18
+VComedy, Fantasy
+p1261
+sba(i__main__
+Movie
+p1262
+(dp1263
+g6
+VR
+p1264
+sg8
+VCape Fear
+p1265
+sg10
+VUSA
+p1266
+sg12
+VMartin Scorsese
+p1267
+sg14
+VRobert De Niro, Nick Nolte, Jessica Lange, Juliette Lewis
+p1268
+sg16
+V1991
+p1269
+sg18
+VCrime, Thriller
+p1270
+sba(i__main__
+Movie
+p1271
+(dp1272
+g6
+VPG-13
+p1273
+sg8
+VHot Shots!
+p1274
+sg10
+VUSA
+p1275
+sg12
+VJim Abrahams
+p1276
+sg14
+VCharlie Sheen, Cary Elwes, Valeria Golino, Lloyd Bridges
+p1277
+sg16
+V1991
+p1278
+sg18
+VAction, Comedy
+p1279
+sba(i__main__
+Movie
+p1280
+(dp1281
+g6
+VPG-13
+p1282
+sg8
+VCity Slickers
+p1283
+sg10
+VUSA
+p1284
+sg12
+VRon Underwood
+p1285
+sg14
+VBilly Crystal, Daniel Stern, Bruno Kirby, Patricia Wettig
+p1286
+sg16
+V1991
+p1287
+sg18
+VComedy
+p1288
+sba(i__main__
+Movie
+p1289
+(dp1290
+g6
+VG
+p1291
+sg8
+VAladdin
+p1292
+sg10
+VUSA
+p1293
+sg12
+VRon Clements, John Musker
+p1294
+sg14
+VScott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman
+p1295
+sg16
+V1992
+p1296
+sg18
+VAnimation, Adventure, Comedy
+p1297
+sba(i__main__
+Movie
+p1298
+(dp1299
+g6
+VR
+p1300
+sg8
+VThe Bodyguard
+p1301
+sg10
+VUSA
+p1302
+sg12
+VMick Jackson
+p1303
+sg14
+VKevin Costner, Whitney Houston, Gary Kemp, Bill Cobbs
+p1304
+sg16
+V1992
+p1305
+sg18
+VAction, Drama, Music
+p1306
+sba(i__main__
+Movie
+p1307
+(dp1308
+g6
+VPG
+p1309
+sg8
+VHome Alone 2: Lost in New York
+p1310
+sg10
+VUSA
+p1311
+sg12
+VChris Columbus
+p1312
+sg14
+VMacaulay Culkin, Joe Pesci, Daniel Stern, Catherine O'Hara
+p1313
+sg16
+V1992
+p1314
+sg18
+VAdventure, Comedy, Family
+p1315
+sba(i__main__
+Movie
+p1316
+(dp1317
+g6
+VR
+p1318
+sg8
+VBasic Instinct
+p1319
+sg10
+VFrance, USA
+p1320
+sg12
+VPaul Verhoeven
+p1321
+sg14
+VMichael Douglas, Sharon Stone, George Dzundza, Jeanne Tripplehorn
+p1322
+sg16
+V1992
+p1323
+sg18
+VDrama, Mystery, Romance
+p1324
+sba(i__main__
+Movie
+p1325
+(dp1326
+g6
+VR
+p1327
+sg8
+VLethal Weapon 3
+p1328
+sg10
+VUSA
+p1329
+sg12
+VRichard Donner
+p1330
+sg14
+VMel Gibson, Danny Glover, Joe Pesci, Rene Russo
+p1331
+sg16
+V1992
+p1332
+sg18
+VAction, Crime, Thriller
+p1333
+sba(i__main__
+Movie
+p1334
+(dp1335
+g6
+VPG-13
+p1336
+sg8
+VBatman Returns
+p1337
+sg10
+VUSA, UK
+p1338
+sg12
+VTim Burton
+p1339
+sg14
+VMichael Keaton, Danny DeVito, Michelle Pfeiffer, Christopher Walken
+p1340
+sg16
+V1992
+p1341
+sg18
+VAction
+p1342
+sba(i__main__
+Movie
+p1343
+(dp1344
+g6
+VR
+p1345
+sg8
+VA Few Good Men
+p1346
+sg10
+VUSA
+p1347
+sg12
+VRob Reiner
+p1348
+sg14
+VTom Cruise, Jack Nicholson, Demi Moore, Kevin Bacon
+p1349
+sg16
+V1992
+p1350
+sg18
+VDrama, Thriller
+p1351
+sba(i__main__
+Movie
+p1352
+(dp1353
+g6
+VPG
+p1354
+sg8
+VSister Act
+p1355
+sg10
+VUSA
+p1356
+sg12
+VEmile Ardolino
+p1357
+sg14
+VWhoopi Goldberg, Maggie Smith, Kathy Najimy, Wendy Makkena
+p1358
+sg16
+V1992
+p1359
+sg18
+VComedy, Crime, Music
+p1360
+sba(i__main__
+Movie
+p1361
+(dp1362
+g6
+VR
+p1363
+sg8
+VBram Stoker's Dracula
+p1364
+sg10
+VUSA
+p1365
+sg12
+VFrancis Ford Coppola
+p1366
+sg14
+VGary Oldman, Winona Ryder, Anthony Hopkins, Keanu Reeves
+p1367
+sg16
+V1992
+p1368
+sg18
+VFantasy, Horror, Romance
+p1369
+sba(i__main__
+Movie
+p1370
+(dp1371
+g6
+VPG-13
+p1372
+sg8
+VWayne's World
+p1373
+sg10
+VUSA
+p1374
+sg12
+VPenelope Spheeris
+p1375
+sg14
+VMike Myers, Dana Carvey, Rob Lowe, Tia Carrere
+p1376
+sg16
+V1992
+p1377
+sg18
+VComedy, Music
+p1378
+sba(i__main__
+Movie
+p1379
+(dp1380
+g6
+VPG-13
+p1381
+sg8
+VJurassic Park
+p1382
+sg10
+VUSA
+p1383
+sg12
+VSteven Spielberg
+p1384
+sg14
+VSam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough
+p1385
+sg16
+V1993
+p1386
+sg18
+VAdventure, Sci-Fi, Thriller
+p1387
+sba(i__main__
+Movie
+p1388
+(dp1389
+g6
+VPG-13
+p1390
+sg8
+VMrs. Doubtfire
+p1391
+sg10
+VUSA
+p1392
+sg12
+VChris Columbus
+p1393
+sg14
+VRobin Williams, Sally Field, Pierce Brosnan, Harvey Fierstein
+p1394
+sg16
+V1993
+p1395
+sg18
+VComedy, Drama, Family
+p1396
+sba(i__main__
+Movie
+p1397
+(dp1398
+g6
+VPG-13
+p1399
+sg8
+VThe Fugitive
+p1400
+sg10
+VUSA
+p1401
+sg12
+VAndrew Davis
+p1402
+sg14
+VHarrison Ford, Tommy Lee Jones, Sela Ward, Julianne Moore
+p1403
+sg16
+V1993
+p1404
+sg18
+VAction, Adventure, Crime
+p1405
+sba(i__main__
+Movie
+p1406
+(dp1407
+g6
+VR
+p1408
+sg8
+VSchindler's List
+p1409
+sg10
+VUSA
+p1410
+sg12
+VSteven Spielberg
+p1411
+sg14
+VLiam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall
+p1412
+sg16
+V1993
+p1413
+sg18
+VBiography, Drama, History
+p1414
+sba(i__main__
+Movie
+p1415
+(dp1416
+g6
+VR
+p1417
+sg8
+VThe Firm
+p1418
+sg10
+VUSA
+p1419
+sg12
+VSydney Pollack
+p1420
+sg14
+VTom Cruise, Jeanne Tripplehorn, Gene Hackman, Hal Holbrook
+p1421
+sg16
+V1993
+p1422
+sg18
+VDrama, Mystery, Thriller
+p1423
+sba(i__main__
+Movie
+p1424
+(dp1425
+g6
+VR
+p1426
+sg8
+VIndecent Proposal
+p1427
+sg10
+VUSA
+p1428
+sg12
+VAdrian Lyne
+p1429
+sg14
+VRobert Redford, Demi Moore, Woody Harrelson, Seymour Cassel
+p1430
+sg16
+V1993
+p1431
+sg18
+VDrama, Romance
+p1432
+sba(i__main__
+Movie
+p1433
+(dp1434
+g6
+VR
+p1435
+sg8
+VCliffhanger
+p1436
+sg10
+VUSA, Italy, France
+p1437
+sg12
+VRenny Harlin
+p1438
+sg14
+VSylvester Stallone, John Lithgow, Michael Rooker, Janine Turner
+p1439
+sg16
+V1993
+p1440
+sg18
+VAction, Adventure, Thriller
+p1441
+sba(i__main__
+Movie
+p1442
+(dp1443
+g6
+VPG
+p1444
+sg8
+VSleepless in Seattle
+p1445
+sg10
+VUSA
+p1446
+sg12
+VNora Ephron
+p1447
+sg14
+VTom Hanks, Ross Malinger, Rita Wilson, Victor Garber
+p1448
+sg16
+V1993
+p1449
+sg18
+VComedy, Drama, Romance
+p1450
+sba(i__main__
+Movie
+p1451
+(dp1452
+g6
+VPG-13
+p1453
+sg8
+VPhiladelphia
+p1454
+sg10
+VUSA
+p1455
+sg12
+VJonathan Demme
+p1456
+sg14
+VTom Hanks, Denzel Washington, Roberta Maxwell, Buzz Kilman
+p1457
+sg16
+V1993
+p1458
+sg18
+VDrama
+p1459
+sba(i__main__
+Movie
+p1460
+(dp1461
+g6
+VPG-13
+p1462
+sg8
+VThe Pelican Brief
+p1463
+sg10
+VUSA
+p1464
+sg12
+VAlan J. Pakula
+p1465
+sg14
+VJulia Roberts, Denzel Washington, Sam Shepard, John Heard
+p1466
+sg16
+V1993
+p1467
+sg18
+VCrime, Drama, Mystery
+p1468
+sba(i__main__
+Movie
+p1469
+(dp1470
+g6
+VG
+p1471
+sg8
+VThe Lion King
+p1472
+sg10
+VUSA
+p1473
+sg12
+VRoger Allers, Rob Minkoff
+p1474
+sg14
+VMatthew Broderick, Jonathan Taylor Thomas, James Earl Jones, Jim Cummings
+p1475
+sg16
+V1994
+p1476
+sg18
+VAnimation, Adventure, Drama
+p1477
+sba(i__main__
+Movie
+p1478
+(dp1479
+g6
+VPG-13
+p1480
+sg8
+VForrest Gump
+p1481
+sg10
+VUSA
+p1482
+sg12
+VRobert Zemeckis
+p1483
+sg14
+VTom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+p1484
+sg16
+V1994
+p1485
+sg18
+VComedy, Drama
+p1486
+sba(i__main__
+Movie
+p1487
+(dp1488
+g6
+VR
+p1489
+sg8
+VTrue Lies
+p1490
+sg10
+VUSA
+p1491
+sg12
+VJames Cameron
+p1492
+sg14
+VArnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Bill Paxton
+p1493
+sg16
+V1994
+p1494
+sg18
+VAction, Comedy, Thriller
+p1495
+sba(i__main__
+Movie
+p1496
+(dp1497
+g6
+VPG-13
+p1498
+sg8
+VThe Mask
+p1499
+sg10
+VUSA
+p1500
+sg12
+VChuck Russell
+p1501
+sg14
+VJim Carrey, Peter Riegert, Peter Greene, Amy Yasbeck
+p1502
+sg16
+V1994
+p1503
+sg18
+VAction, Comedy, Crime
+p1504
+sba(i__main__
+Movie
+p1505
+(dp1506
+g6
+VR
+p1507
+sg8
+VSpeed
+p1508
+sg10
+VUSA
+p1509
+sg12
+VJan de Bont
+p1510
+sg14
+VKeanu Reeves, Dennis Hopper, Sandra Bullock, Joe Morton
+p1511
+sg16
+V1994
+p1512
+sg18
+VAction, Adventure, Crime
+p1513
+sba(i__main__
+Movie
+p1514
+(dp1515
+g6
+VPG
+p1516
+sg8
+VThe Flintstones
+p1517
+sg10
+VUSA
+p1518
+sg12
+VBrian Levant
+p1519
+sg14
+VJohn Goodman, Elizabeth Perkins, Rick Moranis, Rosie O'Donnell
+p1520
+sg16
+V1994
+p1521
+sg18
+VComedy, Family, Fantasy
+p1522
+sba(i__main__
+Movie
+p1523
+(dp1524
+g6
+VR
+p1525
+sg8
+VFour Weddings and a Funeral
+p1526
+sg10
+VUK
+p1527
+sg12
+VMike Newell
+p1528
+sg14
+VHugh Grant, James Fleet, Simon Callow, John Hannah
+p1529
+sg16
+V1994
+p1530
+sg18
+VComedy, Drama, Romance
+p1531
+sba(i__main__
+Movie
+p1532
+(dp1533
+g6
+VR
+p1534
+sg8
+VInterview with the Vampire: The Vampire Chronicles
+p1535
+sg10
+VUSA
+p1536
+sg12
+VNeil Jordan
+p1537
+sg14
+VBrad Pitt, Christian Slater, Virginia McCollam, John McConnell
+p1538
+sg16
+V1994
+p1539
+sg18
+VDrama, Fantasy, Horror
+p1540
+sba(i__main__
+Movie
+p1541
+(dp1542
+g6
+VPG-13
+p1543
+sg8
+VClear and Present Danger
+p1544
+sg10
+VUSA
+p1545
+sg12
+VPhillip Noyce
+p1546
+sg14
+VHarrison Ford, Willem Dafoe, Anne Archer, Joaquim de Almeida
+p1547
+sg16
+V1994
+p1548
+sg18
+VAction, Crime, Drama
+p1549
+sba(i__main__
+Movie
+p1550
+(dp1551
+g6
+VG
+p1552
+sg8
+VToy Story
+p1553
+sg10
+VUSA
+p1554
+sg12
+VJohn Lasseter
+p1555
+sg14
+VTom Hanks, Tim Allen, Don Rickles, Jim Varney
+p1556
+sg16
+V1995
+p1557
+sg18
+VAnimation, Adventure, Comedy
+p1558
+sba(i__main__
+Movie
+p1559
+(dp1560
+g6
+VR
+p1561
+sg8
+VDie Hard with a Vengeance
+p1562
+sg10
+VUSA
+p1563
+sg12
+VJohn McTiernan
+p1564
+sg14
+VBruce Willis, Jeremy Irons, Samuel L. Jackson, Graham Greene
+p1565
+sg16
+V1995
+p1566
+sg18
+VAction, Adventure, Thriller
+p1567
+sba(i__main__
+Movie
+p1568
+(dp1569
+g6
+VPG
+p1570
+sg8
+VApollo 13
+p1571
+sg10
+VUSA
+p1572
+sg12
+VRon Howard
+p1573
+sg14
+VTom Hanks, Bill Paxton, Kevin Bacon, Gary Sinise
+p1574
+sg16
+V1995
+p1575
+sg18
+VAdventure, Drama, History
+p1576
+sba(i__main__
+Movie
+p1577
+(dp1578
+g6
+VPG-13
+p1579
+sg8
+VGoldenEye
+p1580
+sg10
+VUK, USA
+p1581
+sg12
+VMartin Campbell
+p1582
+sg14
+VPierce Brosnan, Sean Bean, Izabella Scorupco, Famke Janssen
+p1583
+sg16
+V1995
+p1584
+sg18
+VAction, Adventure, Thriller
+p1585
+sba(i__main__
+Movie
+p1586
+(dp1587
+g6
+VG
+p1588
+sg8
+VPocahontas
+p1589
+sg10
+VUSA
+p1590
+sg12
+VMike Gabriel, Eric Goldberg
+p1591
+sg14
+VIrene Bedard, Judy Kuhn, Mel Gibson, David Ogden Stiers
+p1592
+sg16
+V1995
+p1593
+sg18
+VAnimation, Adventure, Drama
+p1594
+sba(i__main__
+Movie
+p1595
+(dp1596
+g6
+VPG-13
+p1597
+sg8
+VBatman Forever
+p1598
+sg10
+VUSA, UK
+p1599
+sg12
+VJoel Schumacher
+p1600
+sg14
+VVal Kilmer, Tommy Lee Jones, Jim Carrey, Nicole Kidman
+p1601
+sg16
+V1995
+p1602
+sg18
+VAction, Adventure, Fantasy
+p1603
+sba(i__main__
+Movie
+p1604
+(dp1605
+g6
+VX
+p1606
+sg8
+VAnal Adventures of Bruce Seven
+p1607
+sg10
+VUSA
+p1608
+sg12
+VBionca Seven, Bruce Seven
+p1609
+sg14
+VDavia Ardell, Kaitlyn Ashley, Rebecca Bardoux, Tom Byron
+p1610
+sg16
+V1995
+p1611
+sg18
+VAdult
+p1612
+sba(i__main__
+Movie
+p1613
+(dp1614
+g6
+VPG
+p1615
+sg8
+VCasper
+p1616
+sg10
+VUSA
+p1617
+sg12
+VBrad Silberling
+p1618
+sg14
+VChauncey Leopardi, Spencer Vrooman, Malachi Pearson, Cathy Moriarty
+p1619
+sg16
+V1995
+p1620
+sg18
+VAnimation, Comedy, Family
+p1621
+sba(i__main__
+Movie
+p1622
+(dp1623
+g6
+VPG-13
+p1624
+sg8
+VWaterworld
+p1625
+sg10
+VUSA
+p1626
+sg12
+VKevin Reynolds
+p1627
+sg14
+VKevin Costner, Chaim Jeraffi, Rick Aviles, R.D. Call
+p1628
+sg16
+V1995
+p1629
+sg18
+VAction, Adventure, Sci-Fi
+p1630
+sba(i__main__
+Movie
+p1631
+(dp1632
+g6
+VPG
+p1633
+sg8
+VJumanji
+p1634
+sg10
+VUSA
+p1635
+sg12
+VJoe Johnston
+p1636
+sg14
+VRobin Williams, Jonathan Hyde, Kirsten Dunst, Bradley Pierce
+p1637
+sg16
+V1995
+p1638
+sg18
+VAction, Adventure, Family
+p1639
+sba(i__main__
+Movie
+p1640
+(dp1641
+g6
+VPG-13
+p1642
+sg8
+VIndependence Day
+p1643
+sg10
+VUSA
+p1644
+sg12
+VRoland Emmerich
+p1645
+sg14
+VWill Smith, Bill Pullman, Jeff Goldblum, Mary McDonnell
+p1646
+sg16
+V1996
+p1647
+sg18
+VAction, Adventure, Sci-Fi
+p1648
+sba(i__main__
+Movie
+p1649
+(dp1650
+g6
+VPG-13
+p1651
+sg8
+VTwister
+p1652
+sg10
+VUSA
+p1653
+sg12
+VJan de Bont
+p1654
+sg14
+VHelen Hunt, Bill Paxton, Cary Elwes, Jami Gertz
+p1655
+sg16
+V1996
+p1656
+sg18
+VAction, Adventure, Drama
+p1657
+sba(i__main__
+Movie
+p1658
+(dp1659
+g6
+VPG-13
+p1660
+sg8
+VMission: Impossible
+p1661
+sg10
+VUSA
+p1662
+sg12
+VBrian De Palma
+p1663
+sg14
+VTom Cruise, Jon Voight, Emmanuelle Béart, Henry Czerny
+p1664
+sg16
+V1996
+p1665
+sg18
+VAction, Adventure, Thriller
+p1666
+sba(i__main__
+Movie
+p1667
+(dp1668
+g6
+VR
+p1669
+sg8
+VThe Rock
+p1670
+sg10
+VUSA
+p1671
+sg12
+VMichael Bay
+p1672
+sg14
+VSean Connery, Nicolas Cage, Ed Harris, John Spencer
+p1673
+sg16
+V1996
+p1674
+sg18
+VAction, Adventure, Thriller
+p1675
+sba(i__main__
+Movie
+p1676
+(dp1677
+g6
+VG
+p1678
+sg8
+VThe Hunchback of Notre Dame
+p1679
+sg10
+VUSA
+p1680
+sg12
+VGary Trousdale, Kirk Wise
+p1681
+sg14
+VJason Alexander, Tom Hulce, Mary Kay Bergman, Demi Moore
+p1682
+sg16
+V1996
+p1683
+sg18
+VAnimation, Drama, Family
+p1684
+sba(i__main__
+Movie
+p1685
+(dp1686
+g6
+VG
+p1687
+sg8
+V101 Dalmatians
+p1688
+sg10
+VUSA
+p1689
+sg12
+VStephen Herek
+p1690
+sg14
+VGlenn Close, Jeff Daniels, Joely Richardson, Joan Plowright
+p1691
+sg16
+V1996
+p1692
+sg18
+VAdventure, Comedy, Family
+p1693
+sba(i__main__
+Movie
+p1694
+(dp1695
+g6
+VR
+p1696
+sg8
+VRansom
+p1697
+sg10
+VUSA
+p1698
+sg12
+VRon Howard
+p1699
+sg14
+VMel Gibson, Rene Russo, Brawley Nolte, Gary Sinise
+p1700
+sg16
+V1996
+p1701
+sg18
+VCrime, Thriller
+p1702
+sba(i__main__
+Movie
+p1703
+(dp1704
+g6
+VPG-13
+p1705
+sg8
+VThe Nutty Professor
+p1706
+sg10
+VUSA
+p1707
+sg12
+VTom Shadyac
+p1708
+sg14
+VEddie Murphy, Jada Pinkett Smith, James Coburn, Larry Miller
+p1709
+sg16
+V1996
+p1710
+sg18
+VComedy, Romance, Sci-Fi
+p1711
+sba(i__main__
+Movie
+p1712
+(dp1713
+g6
+VR
+p1714
+sg8
+VJerry Maguire
+p1715
+sg10
+VUSA
+p1716
+sg12
+VCameron Crowe
+p1717
+sg14
+VTom Cruise, Cuba Gooding Jr., Renée Zellweger, Kelly Preston
+p1718
+sg16
+V1996
+p1719
+sg18
+VComedy, Drama, Romance
+p1720
+sba(i__main__
+Movie
+p1721
+(dp1722
+g6
+VR
+p1723
+sg8
+VEraser
+p1724
+sg10
+VUSA
+p1725
+sg12
+VChuck Russell
+p1726
+sg14
+VArnold Schwarzenegger, James Caan, Vanessa Williams, James Coburn
+p1727
+sg16
+V1996
+p1728
+sg18
+VAction, Drama, Mystery
+p1729
+sba(i__main__
+Movie
+p1730
+(dp1731
+g6
+VPG-13
+p1732
+sg8
+VTitanic
+p1733
+sg10
+VUSA
+p1734
+sg12
+VJames Cameron
+p1735
+sg14
+VLeonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+p1736
+sg16
+V1997
+p1737
+sg18
+VDrama, Romance
+p1738
+sba(i__main__
+Movie
+p1739
+(dp1740
+g6
+VPG-13
+p1741
+sg8
+VThe Lost World: Jurassic Park
+p1742
+sg10
+VUSA
+p1743
+sg12
+VSteven Spielberg
+p1744
+sg14
+VJeff Goldblum, Julianne Moore, Pete Postlethwaite, Arliss Howard
+p1745
+sg16
+V1997
+p1746
+sg18
+VAction, Adventure, Sci-Fi
+p1747
+sba(i__main__
+Movie
+p1748
+(dp1749
+g6
+VPG-13
+p1750
+sg8
+VMen in Black
+p1751
+sg10
+VUSA
+p1752
+sg12
+VBarry Sonnenfeld
+p1753
+sg14
+VTommy Lee Jones, Will Smith, Linda Fiorentino, Vincent D'Onofrio
+p1754
+sg16
+V1997
+p1755
+sg18
+VAdventure, Comedy, Family
+p1756
+sba(i__main__
+Movie
+p1757
+(dp1758
+g6
+VPG-13
+p1759
+sg8
+VTomorrow Never Dies
+p1760
+sg10
+VUK, USA
+p1761
+sg12
+VRoger Spottiswoode
+p1762
+sg14
+VPierce Brosnan, Jonathan Pryce, Michelle Yeoh, Teri Hatcher
+p1763
+sg16
+V1997
+p1764
+sg18
+VAction, Adventure, Thriller
+p1765
+sba(i__main__
+Movie
+p1766
+(dp1767
+g6
+VR
+p1768
+sg8
+VAir Force One
+p1769
+sg10
+VUSA, Germany
+p1770
+sg12
+VWolfgang Petersen
+p1771
+sg14
+VHarrison Ford, Gary Oldman, Glenn Close, Wendy Crewson
+p1772
+sg16
+V1997
+p1773
+sg18
+VAction, Adventure, Drama
+p1774
+sba(i__main__
+Movie
+p1775
+(dp1776
+g6
+VPG-13
+p1777
+sg8
+VAs Good as It Gets
+p1778
+sg10
+VUSA
+p1779
+sg12
+VJames L. Brooks
+p1780
+sg14
+VJack Nicholson, Helen Hunt, Greg Kinnear, Cuba Gooding Jr.
+p1781
+sg16
+V1997
+p1782
+sg18
+VComedy, Drama, Romance
+p1783
+sba(i__main__
+Movie
+p1784
+(dp1785
+g6
+VPG-13
+p1786
+sg8
+VLiar Liar
+p1787
+sg10
+VUSA
+p1788
+sg12
+VTom Shadyac
+p1789
+sg14
+VJim Carrey, Maura Tierney, Justin Cooper, Cary Elwes
+p1790
+sg16
+V1997
+p1791
+sg18
+VComedy, Fantasy, Romance
+p1792
+sba(i__main__
+Movie
+p1793
+(dp1794
+g6
+VPG-13
+p1795
+sg8
+VMy Best Friend's Wedding
+p1796
+sg10
+VUSA
+p1797
+sg12
+VP.J. Hogan
+p1798
+sg14
+VJulia Roberts, Dermot Mulroney, Cameron Diaz, Rupert Everett
+p1799
+sg16
+V1997
+p1800
+sg18
+VComedy, Romance
+p1801
+sba(i__main__
+Movie
+p1802
+(dp1803
+g6
+VPG-13
+p1804
+sg8
+VThe Fifth Element
+p1805
+sg10
+VFrance
+p1806
+sg12
+VLuc Besson
+p1807
+sg14
+VBruce Willis, Gary Oldman, Ian Holm, Milla Jovovich
+p1808
+sg16
+V1997
+p1809
+sg18
+VAction, Adventure, Sci-Fi
+p1810
+sba(i__main__
+Movie
+p1811
+(dp1812
+g6
+VR
+p1813
+sg8
+VThe Full Monty
+p1814
+sg10
+VUK, USA
+p1815
+sg12
+VPeter Cattaneo
+p1816
+sg14
+VRobert Carlyle, Mark Addy, William Snape, Steve Huison
+p1817
+sg16
+V1997
+p1818
+sg18
+VComedy, Drama, Music
+p1819
+sbasb.
